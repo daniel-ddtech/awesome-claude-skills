@@ -160,6 +160,7 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 
 ### Business & Marketing
 
+- [Adlicio](https://github.com/daniel-ddtech/commentscraper-cli/tree/main/skills) - Customer research from public comments and reviews (Reddit, Amazon, YouTube, TikTok, Trustpilot and more) through the Adlicio MCP server, returned as pain points, objections and ad angles with each quote linked. Needs an Adlicio account. *By [@daniel-ddtech](https://github.com/daniel-ddtech)*
 - [Brand Build Skills](https://github.com/rampstackco/claude-skills) - 59-skill library covering the full website lifecycle: brand, design, content, SEO, dev, ops, growth, and research. Stack-agnostic with an Ahrefs MCP-powered SEO audit suite. Includes a meta-skill for writing your own. *By [@rampstackco](https://github.com/rampstackco)*
 - [Brand Guidelines](./brand-guidelines/) - Applies Anthropic's official brand colors and typography to artifacts for consistent visual identity and professional design standards.
 - [Competitive Ads Extractor](./competitive-ads-extractor/) - Extracts and analyzes competitors' ads from ad libraries to understand messaging and creative approaches that resonate.
